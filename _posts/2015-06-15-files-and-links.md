@@ -6,7 +6,7 @@ categories: unit01
 ---
 
 Discussion will cover what software development is, and how software works.
-Additionally we will discuss different kinds of software languages and 
+Additionally we will discuss different kinds of software languages and
 their place in computing.
 
 Bobby was here
@@ -27,7 +27,7 @@ Bobby was here
 ### Tools & Links
 
 * [Class Syllabus](https://transfer.sh/PefDs/pt1420-29-syllabus.pdf)
-* [Class Software](https://transfer.sh/A0OpD/ninite-pt1430-installer.exe)
-* [Github](htttps://www.github.com)
+* [Class Software](https://transfer.sh/PMqlt/ninite-pt1420-installer.exe)
+* [Github](https://www.github.com)
 * [Github Windows Client](https://transfer.sh/1gZYfw/githubsetup.exe)
 
